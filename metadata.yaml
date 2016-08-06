@@ -1,0 +1,37 @@
+_repo: The-Poetical-Works-of-Edmund-Spenser-Volume-5_10602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Spenser, Edmund
+    aliases:
+    - Immerito
+    - Spenser, Edmond
+    - Spencer, Edmund
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Spenser
+  editor:
+    agent_name: Child, Francis James
+    alias: Child, F. J. (Francis James)
+    birthdate: 1825
+    deathdate: 1896
+    gutenberg_agent_id: '38603'
+    url: http://www.gutenberg.org/2009/agents/38603
+    wikipedia: http://en.wikipedia.org/wiki/Francis_James_Child
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+- GITenberg
+title: The Poetical Works of Edmund Spenser, Volume 5
+url: http://www.gutenberg.org/ebooks/10602
